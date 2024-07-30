@@ -1,9 +1,8 @@
 # Fashion_Image_classifcation
-Fashion Images Classification using the Deep Learning Techniques(Convolution Neural Network).
-In this machine learning project, the central focus is on tackling the classification challenge presented by the Fashion MNIST dataset. Motivated by the 
-growing importance of image classification in various industries, particularly in the realm of fashion, the project aims to enhance the accuracy and 
-efficiency of categorizing clothing items. The paper makes notable contributions by proposing a Convolutional Neural Network (CNN) model enriched 
-with advanced techniques, including transfer learning and data augmentation. The literature review underscores the significance of image classification 
-and the existing methods employed in similar tasks. Despite the advancements, a research gap is identified in achieving optimal accuracy and 
-generalization for fashion item classification, prompting the project to introduce a novel approach that addresses this gap and demonstrates superior 
-performance compared to existing methods
+This exploration design addresses the development and perpetration of a Convolutional Neural Network( CNN) for fashion item bracket using the Fashion MNIST 
+dataset. The problem at hand involves creating an accurate model to automatically classify colorful apparel and appurtenant orders grounded on image data. The 
+exploration employs a structured approach, encompassing data lading, preprocessing, and the construction of a CNN model with convolutional and thick layers. 
+The training process involves optimizing the model using the Adam optimizer and meager categorical cross entropy loss function. Through ten ages of training, 
+the model achieves an emotional delicacy of roughly 90 on the test data. The findings emphasize the efficacity of the CNN armature in automating the recognition 
+of different fashion particulars. In conclusion, the exploration contributes a well- performing model to the field of image bracket, showcasing the eventuality for 
+automated fashion categorization using deep literacy ways.
